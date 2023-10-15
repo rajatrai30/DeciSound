@@ -1,0 +1,4 @@
+npx hardhat node
+npm run deploy
+npx hardhat test
+npm run start
